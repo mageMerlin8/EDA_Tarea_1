@@ -1,3 +1,2 @@
 numpy
-timeit
 matplotlib.pyplot
